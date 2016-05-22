@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy.ui.activity;
+package com.example.zgq.changeablegridview.ui.activity;
 
 import android.content.DialogInterface;
 import android.os.Build;
@@ -12,10 +12,10 @@ import android.view.Window;
 import android.widget.GridView;
 import android.widget.TextView;
 
-import com.example.zgq.lovebuy.R;
-import com.example.zgq.lovebuy.adapter.ChangeableGridViewAdapter;
-import com.example.zgq.lovebuy.ui.myUI.InputDetailDialog;
-import com.example.zgq.lovebuy.util.SharedPreferencesUtil;
+import com.example.zgq.changeablegridview.R;
+import com.example.zgq.changeablegridview.adapter.ChangeableGridViewAdapter;
+import com.example.zgq.changeablegridview.ui.myUI.InputDetailDialog;
+import com.example.zgq.changeablegridview.util.SharedPreferencesUtil;
 
 import org.json.JSONException;
 

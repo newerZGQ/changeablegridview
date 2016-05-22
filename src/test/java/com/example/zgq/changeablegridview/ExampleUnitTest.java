@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy;
+package com.example.zgq.changeablegridview;
 
 import org.junit.Test;
 

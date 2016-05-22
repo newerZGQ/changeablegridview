@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy.ui.dialog;
+package com.example.zgq.changeablegridview.ui.dialog;
 
 import android.app.Dialog;
 import android.content.DialogInterface;
@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 import android.support.v7.app.AlertDialog;
 
-import com.example.zgq.lovebuy.R;
+import com.example.zgq.changeablegridview.R;
 
 /**
  * Created by 37902 on 2016/1/16.

@@ -1,10 +1,7 @@
-package com.example.zgq.lovebuy.util;
+package com.example.zgq.changeablegridview.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import java.util.ArrayList;
 

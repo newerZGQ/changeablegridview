@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy.ui.myUI;
+package com.example.zgq.changeablegridview.ui.myUI;
 
 /**
  * Created by 37902 on 2016/1/23.

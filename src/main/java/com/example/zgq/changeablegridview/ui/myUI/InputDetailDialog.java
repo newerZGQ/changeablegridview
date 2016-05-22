@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy.ui.myUI;
+package com.example.zgq.changeablegridview.ui.myUI;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.example.zgq.lovebuy.R;
+import com.example.zgq.changeablegridview.R;
 
 /**
  * Created by 37902 on 2016/1/24.

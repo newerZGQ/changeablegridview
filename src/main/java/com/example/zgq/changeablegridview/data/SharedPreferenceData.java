@@ -1,4 +1,4 @@
-package com.example.zgq.lovebuy.data;
+package com.example.zgq.changeablegridview.data;
 
 import android.content.Context;
 import android.content.SharedPreferences;
